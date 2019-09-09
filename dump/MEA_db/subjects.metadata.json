@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"MEA_db.subjects"},{"v":2,"unique":true,"key":{"subject":1},"name":"subject_1","ns":"MEA_db.subjects","background":true}],"uuid":"84d9b30419b544508a5e82954281d784"}

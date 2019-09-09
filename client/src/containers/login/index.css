@@ -1,0 +1,22 @@
+.auth-page {
+    position: relative;
+    padding-bottom: 10%;
+    background-color: #f26d23;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .heading {
+    text-align: center;
+    color: white;
+    font-family: "Kanit", sans-serif;
+    padding-bottom: 2%;
+  }
+  
+  .auth-form {
+    width: 350px;
+    padding: 5% 5% 5% 5%;
+  }

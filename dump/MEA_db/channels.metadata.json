@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"MEA_db.channels"},{"v":2,"unique":true,"key":{"channel":1},"name":"channel_1","ns":"MEA_db.channels","background":true}],"uuid":"15373151fb21437cbf08e2504dc2a4e3"}

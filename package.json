@@ -1,0 +1,44 @@
+{
+  "name": "mea-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "build": "node server.js NODE_ENV=production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://omanol@bitbucket.org/omanol/mea-web.git"
+  },
+  "author": "Omanol",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/omanol/mea-web#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bcrypt": "^3.0.5",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "data-uri-to-file": "^0.1.8",
+    "db": "^1.1.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0",
+    "gridfs-stream": "^1.1.1",
+    "jwt-simple": "^0.5.5",
+    "lodash": "^4.17.11",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.4.15",
+    "morgan": "^1.9.1",
+    "multer-gridfs-storage": "^3.2.3",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "react-bootstrap-table": "^4.3.1",
+    "react-router-dom": "^5.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}

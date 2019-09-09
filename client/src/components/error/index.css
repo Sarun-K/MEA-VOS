@@ -1,0 +1,18 @@
+.trim{
+    position: relative;
+    padding-bottom: 10%;
+    background-color: #f26d23;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.head-line{
+    font-family: "Kanit";
+    font-size: 30px;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+}

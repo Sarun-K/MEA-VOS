@@ -1,0 +1,13 @@
+.setNav {
+    background-color: #f26d23;
+    padding: 1% 5% 0% 1%;
+  }
+
+.setNavOut{
+    background-color: #f26d23;
+    padding: 1% 5% 1% 5%;
+    font-family: "Kanit";
+    font-size: 18px;
+    font-style: normal;
+    
+}
